@@ -1,2 +1,2 @@
-# projeto_netflix
+# Projeto Netflix Clone
 Projeto clone netflix
